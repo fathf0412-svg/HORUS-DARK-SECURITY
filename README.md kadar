@@ -1,0 +1,21 @@
+HORUS DARK SECURITY
+
+A dark-themed Android security learning application.
+
+Features
+
+- Password strength analysis (local only).
+- Basic URL format analysis.
+- Local security reports.
+
+Safety
+
+HORUS is designed for defensive learning and authorized security checks. It does not collect or transmit passwords.
+
+Build
+
+The Android debug APK is built using GitHub Actions.
+
+Platform
+
+Android
